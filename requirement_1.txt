@@ -1,0 +1,9 @@
+openmim
+scikit-image==0.24.0 
+mmdeploy==1.3.0 
+transformers==4.37.2
+diffusers==0.27.2
+pandas
+ptflops
+numpy
+Pillow
